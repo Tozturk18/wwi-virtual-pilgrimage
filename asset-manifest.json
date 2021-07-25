@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wwi-virtual-pilgrimage/static/css/main.fa8a3513.chunk.css",
+    "main.js": "/wwi-virtual-pilgrimage/static/js/main.bdc8f56c.chunk.js",
+    "main.js.map": "/wwi-virtual-pilgrimage/static/js/main.bdc8f56c.chunk.js.map",
+    "runtime-main.js": "/wwi-virtual-pilgrimage/static/js/runtime-main.e273dc82.js",
+    "runtime-main.js.map": "/wwi-virtual-pilgrimage/static/js/runtime-main.e273dc82.js.map",
+    "static/js/2.d678d2d1.chunk.js": "/wwi-virtual-pilgrimage/static/js/2.d678d2d1.chunk.js",
+    "static/js/2.d678d2d1.chunk.js.map": "/wwi-virtual-pilgrimage/static/js/2.d678d2d1.chunk.js.map",
+    "index.html": "/wwi-virtual-pilgrimage/index.html",
+    "static/css/main.fa8a3513.chunk.css.map": "/wwi-virtual-pilgrimage/static/css/main.fa8a3513.chunk.css.map",
+    "static/js/2.d678d2d1.chunk.js.LICENSE.txt": "/wwi-virtual-pilgrimage/static/js/2.d678d2d1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/wwi-virtual-pilgrimage/static/media/ampersand.1c7f8ba1.woff2",
+    "static/media/film2.5b12168c.webm": "/wwi-virtual-pilgrimage/static/media/film2.5b12168c.webm"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e273dc82.js",
+    "static/js/2.d678d2d1.chunk.js",
+    "static/css/main.fa8a3513.chunk.css",
+    "static/js/main.bdc8f56c.chunk.js"
+  ]
+}
