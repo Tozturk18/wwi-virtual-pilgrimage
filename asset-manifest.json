@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wwi-virtual-pilgrimage/static/css/main.fa8a3513.chunk.css",
-    "main.js": "/wwi-virtual-pilgrimage/static/js/main.aae0a7a3.chunk.js",
-    "main.js.map": "/wwi-virtual-pilgrimage/static/js/main.aae0a7a3.chunk.js.map",
+    "main.js": "/wwi-virtual-pilgrimage/static/js/main.2d34dafd.chunk.js",
+    "main.js.map": "/wwi-virtual-pilgrimage/static/js/main.2d34dafd.chunk.js.map",
     "runtime-main.js": "/wwi-virtual-pilgrimage/static/js/runtime-main.e273dc82.js",
     "runtime-main.js.map": "/wwi-virtual-pilgrimage/static/js/runtime-main.e273dc82.js.map",
     "static/js/2.d678d2d1.chunk.js": "/wwi-virtual-pilgrimage/static/js/2.d678d2d1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e273dc82.js",
     "static/js/2.d678d2d1.chunk.js",
     "static/css/main.fa8a3513.chunk.css",
-    "static/js/main.aae0a7a3.chunk.js"
+    "static/js/main.2d34dafd.chunk.js"
   ]
 }
